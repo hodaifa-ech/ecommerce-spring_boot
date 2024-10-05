@@ -1,8 +1,8 @@
-# Ecommerce platform (fullstack project) Spring boot 3, Angular 18, Tailwind CSS, PostgreSQL, Kinde (2024)
+# Ecommerce platform (fullstack project) Spring boot 3, Angular 18, Tailwind CSS, PostgreSQL
 
 Monorepo of the Ecommerce platform app.
 
-[Video tutorial](https://youtu.be/4npG3sAMT5I)
+
 
 ### Key Features:
 - 🛠️ Admin panel for products and categories 
